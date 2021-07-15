@@ -16,6 +16,7 @@ Config = {
 	public = false,
 	publicItalics = true
 }
+
 -- Customizing Log Output
 PrivateProperties = {
 	Color = Color3.fromRGB(0,255,255); 
